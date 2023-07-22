@@ -158,6 +158,7 @@ const App =() => {
     e.preventDefault();
     console.log(user);
     console.log(password);
+    
   }
 
   return (
